@@ -1,0 +1,6 @@
+This project was done by Joshua Song and Samuel Kim.
+
+The usage of LocalTime and the idea of separating helper methods were advised by Sunny Kim, the lab assistant. 
+The JavaDoc page of LocalTime was also referenced. https://docs.oracle.com/javase/8/docs/api/java/time/LocalTime.html
+
+Rebecca, the prefect, helped us with implementing the inheritance of the program. 

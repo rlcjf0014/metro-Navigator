@@ -1,0 +1,20 @@
+#Stop Name,Minutes Taken, Minutes Stopped, StopStationType, hasBathroom, typeOfFood, typeOfStop
+O'Hare,10,4,Airport,True,Fast Food,All 
+Jefferson_Park,2,3,Park,False,No Food,Tour
+Forest_Park,3,2,Park,True,Fast Food,Normal
+The_Loop,4,2,Business Center,True,Comfort Food,Express
+United_Center,3,4,Sports Stadium,True,Comfort Food,Tour
+Chicago,7,4,City Center,True,All Food,Express
+Belmont,4,3,Park,False,No Food,Tour
+Wrigley_Field,5,3,Sports Stadium,True,Comfort Food,Tour
+Midway,10,5,Airport,True,Fast Food,Express
+Soldier_Field,6,4,Sports Stadium,True,Comfort Food,Tour
+U_Of_Chicago,6,3,Business Center,True,No Food,Express
+Water_Way,2,2,Park,True,Fancy Food,All
+White_Sox,4,3,Sports Stadium,True,Comfort Food,Tour
+South_Side_Business,3,2,Business Center,False,Fast Food,Express
+Juice_WRLD_Memorial,9,4,Park,False,No Food,Tour
+Addison,20,2,Amusement Park,False,Comfort Food,Tour
+Austin,9,3,Business Center,False,Fast Food,Express
+Dammen,13,2,Department Store,True,No Food,All
+Division,16,2,Transit Centre,True,Fast Food,Express
